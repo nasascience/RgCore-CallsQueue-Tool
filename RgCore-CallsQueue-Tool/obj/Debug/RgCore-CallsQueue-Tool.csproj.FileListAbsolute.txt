@@ -1,0 +1,28 @@
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\RgCore-CallsQueue-Tool.exe.config
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\RgCore-CallsQueue-Tool.exe
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\RgCore-CallsQueue-Tool.pdb
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\EntityFramework.dll
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\EntityFramework.xml
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore-CallsQueue-Tool.csprojAssemblyReference.cache
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore_CallsQueue_Tool.Properties.Resources.resources
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore-CallsQueue-Tool.csproj.GenerateResource.cache
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore-CallsQueue-Tool.csproj.CopyComplete
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore-CallsQueue-Tool.exe
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore-CallsQueue-Tool.pdb
+C:\Users\Johan Manuel\source\repos\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore_CallsQueue_Tool.Form1.resources
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\RgCore-CallsQueue-Tool.exe.config
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\RgCore-CallsQueue-Tool.exe
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\RgCore-CallsQueue-Tool.pdb
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\EntityFramework.dll
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\EntityFramework.SqlServer.dll
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\EntityFramework.xml
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\bin\Debug\EntityFramework.SqlServer.xml
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore-CallsQueue-Tool.csprojAssemblyReference.cache
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore_CallsQueue_Tool.Form1.resources
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore_CallsQueue_Tool.Properties.Resources.resources
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore-CallsQueue-Tool.csproj.GenerateResource.cache
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore-CallsQueue-Tool.csproj.CopyComplete
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore-CallsQueue-Tool.exe
+C:\Nasa\Projects\RichmondGroup\RgCore-CallsQueue-Tool\RgCore-CallsQueue-Tool\obj\Debug\RgCore-CallsQueue-Tool.pdb
